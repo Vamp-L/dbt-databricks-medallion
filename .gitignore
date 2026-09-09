@@ -20,6 +20,7 @@ logs/
 vamp_dbt/logs/
 vamp_dbt/target/
 vamp_dbt/dbt_packages/
+vamp_dbt/.user.yml
 
 # IDE
 .vscode/
