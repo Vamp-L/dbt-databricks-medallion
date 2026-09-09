@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets / local credentials
+vamp_dbt/profiles.yml
+.env
+.env.*
+
+# dbt generated
+logs/
+vamp_dbt/logs/
+vamp_dbt/target/
+vamp_dbt/dbt_packages/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,1 @@
+{% set my_name = "Alice" %} {{ my_name }}
